@@ -1,0 +1,13 @@
+{
+  "name": "debt-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i styles.css -o output.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "tailwindcss": "^3.4.4"
+  }
+}
